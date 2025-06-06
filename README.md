@@ -11,7 +11,7 @@
 
 **Credit Card Complaints Dashboard** is an interactive Tableau project built using a **synthetic dataset** representing **consumer credit card complaints across the United States**. The goal of this dashboard is to explore trends in complaint volume, response timeliness, issue categories, and submission channels, providing insights into consumer dissatisfaction patterns over time.
 
-The dataset captures multiple attributes such as complaint issues, state-wise distribution, method of submission, and company response types—enabling a multi-dimensional understanding of financial service performance and consumer experience.
+The dataset captures multiple attributes such as complaint issues, state-wise distribution, method of submission, and company response types, enabling a multi-dimensional understanding of financial service performance and consumer experience.
 
 ---
 
